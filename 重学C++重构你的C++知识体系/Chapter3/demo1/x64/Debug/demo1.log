@@ -1,0 +1,4 @@
+﻿  demo1.cpp
+D:\VsProjects\quickzhao_codes\Chapter3\demo1\demo1.cpp(122,17): warning C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
+D:\VsProjects\quickzhao_codes\Chapter3\demo1\demo1.cpp(138,11): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  demo1.vcxproj -> D:\VsProjects\quickzhao_codes\Chapter3\x64\Debug\demo1.exe
